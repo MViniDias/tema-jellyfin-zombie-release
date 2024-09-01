@@ -15,20 +15,20 @@ Installation:
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/MakD/zombie-release/main/img/mobile/mobile_detail-alt.png" />
+      <img src="https://raw.githubusercontent.com/MViniDias/tema-jellyfin-zombie-release/main/img/mobile/mobile_detail-alt.png" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/MakD/zombie-release/main/img/mobile/mobile-alt-layout-v2.jpg" />
+      <img src="https://raw.githubusercontent.com/MViniDias/tema-jellyfin-zombie-release/main/img/mobile/mobile-alt-layout-v2.jpg" />
     </td>
   </tr>
 </table>
 
 ```
-@import URL('https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/mobile-alt-layout.css');
+@import URL('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/mobile-alt-layout.css');
 ```
 OR
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@latest/mobile-alt-layout-v2.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/mobile-alt-layout-v2.css');
 ```
 
 ### Screenshots (Desktop)
@@ -36,26 +36,26 @@ OR
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/login.png" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/login.png" />
     </td>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/homepage.png?raw=true" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/detail.png?raw=true" />
-    </td>
-    <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/sidebar.png?raw=true" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/homepage.png?raw=true" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/tv-series.png?raw=true" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/detail.png?raw=true" />
     </td>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/desktop/seasonpage.png?raw=true" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/sidebar.png?raw=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/tv-series.png?raw=true" />
+    </td>
+    <td>
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/desktop/seasonpage.png?raw=true" />
     </td>
   </tr>
 </table>
@@ -65,23 +65,23 @@ OR
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/mobile/mobile_login.png?raw=true" width="600" height="700" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/mobile/mobile_login.png?raw=true" width="600" height="700" />
     </td>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/mobile/mobile_homepage.png?raw=true" width="600" height="700" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/mobile/mobile_homepage.png?raw=true" width="600" height="700" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/mobile/mobile_itempage.png?raw=true" width="600" height="700" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/mobile/mobile_itempage.png?raw=true" width="600" height="700" />
     </td>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/mobile/mobile_detail-alt.png?raw=true" width="600" height="700" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/mobile/mobile_detail-alt.png?raw=true" width="600" height="700" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/mobile/mobile_landscape.png?raw=true" style="width: 100%;" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/mobile/mobile_landscape.png?raw=true" style="width: 100%;" />
     </td>
   </tr>
 </table>
@@ -91,10 +91,10 @@ OR
 <table>
   <tr>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/tablet/tablet_portrait.png?raw=true" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/tablet/tablet_portrait.png?raw=true" />
     </td>
     <td>
-      <img src="https://github.com/MakD/zombie-release/blob/main/img/tablet/tablet_landscape.png?raw=true" />
+      <img src="https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/img/tablet/tablet_landscape.png?raw=true" />
     </td>
   </tr>
 </table>
