@@ -110,7 +110,7 @@ Add the `@import url` below your main import.
 ![Powder Blue](https://readme-swatches.vercel.app/ADDFF4) ![Slate Gray](https://readme-swatches.vercel.app/708090) ![Charcoal](https://readme-swatches.vercel.app/2F363B) ![Jet](https://readme-swatches.vercel.app/1C2124) ![Gunmetal](https://readme-swatches.vercel.app/3C464B) ![Dark Slate](https://readme-swatches.vercel.app/1D2629)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-1.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-1.css');
 ```
 
 ## Palette 2
@@ -118,7 +118,7 @@ Add the `@import url` below your main import.
 ![Light Steel Blue](https://readme-swatches.vercel.app/A2CDEE) ![Dark Slate Gray](https://readme-swatches.vercel.app/5A686E) ![Onyx](https://readme-swatches.vercel.app/24292E) ![Eerie Black](https://readme-swatches.vercel.app/12171B) ![Outer Space](https://readme-swatches.vercel.app/333C42) ![Midnight](https://readme-swatches.vercel.app/1B2328)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-2.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-2.css');
 ```
 
 ## Palette 3
@@ -126,7 +126,7 @@ Add the `@import url` below your main import.
 ![Sky Blue](https://readme-swatches.vercel.app/92C7E6) ![Slate Blue](https://readme-swatches.vercel.app/505C63) ![Space Gray](https://readme-swatches.vercel.app/282F34) ![Black Charcoal](https://readme-swatches.vercel.app/161B1F) ![Steel Gray](https://readme-swatches.vercel.app/384248) ![Graphite](https://readme-swatches.vercel.app/192227)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-3.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-3.css');
 ```
 
 ## Palette 4
@@ -134,7 +134,7 @@ Add the `@import url` below your main import.
 ![Teal](https://readme-swatches.vercel.app/80CBC4) ![Storm Gray](https://readme-swatches.vercel.app/647C83) ![Gunmetal Gray](https://readme-swatches.vercel.app/2D3436) ![Jet Black](https://readme-swatches.vercel.app/191D1F) ![Dark Slate](https://readme-swatches.vercel.app/3C4749) ![Charcoal Gray](https://readme-swatches.vercel.app/162221)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-4.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-4.css');
 ```
 
 ## Palette 5
@@ -142,7 +142,7 @@ Add the `@import url` below your main import.
 ![Aqua Blue](https://readme-swatches.vercel.app/78BED5) ![Smoky Gray](https://readme-swatches.vercel.app/5A696E) ![Carbon Gray](https://readme-swatches.vercel.app/262E32) ![Ebon](https://readme-swatches.vercel.app/151A1D) ![Granite](https://readme-swatches.vercel.app/364045) ![Iron Gray](https://readme-swatches.vercel.app/142024)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-5.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-5.css');
 ```
 
 ## Palette 6
@@ -150,7 +150,7 @@ Add the `@import url` below your main import.
 ![Pale Blue](https://readme-swatches.vercel.app/6EB4C8) ![Cadet Gray](https://readme-swatches.vercel.app/4E5D64) ![Storm Cloud](https://readme-swatches.vercel.app/232B2F) ![Raven Black](https://readme-swatches.vercel.app/121719) ![Charcoal Blue](https://readme-swatches.vercel.app/323C41) ![Lead Gray](https://readme-swatches.vercel.app/131E22)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-7.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-7.css');
 ```
 
 ## Palette 7
@@ -158,7 +158,7 @@ Add the `@import url` below your main import.
 ![Color1](https://readme-swatches.vercel.app/AAAAAA) ![Color2](https://readme-swatches.vercel.app/828282) ![Color3](https://readme-swatches.vercel.app/555555) ![Color4](https://readme-swatches.vercel.app/323232) ![Color5](https://readme-swatches.vercel.app/414141) ![Color6](https://readme-swatches.vercel.app/2D2D2D)
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/colorPalette/palette-8.css');
+@import url('https://cdn.jsdelivr.net/gh/MViniDias/tema-jellyfin-zombie-release/colorPalette/palette-8.css');
 ```
 
 # Get a featured bar at the top of your homepage
@@ -172,7 +172,7 @@ Firstly I would like to thank [BobHasNoSoul](https://github.com/BobHasNoSoul), a
 
 ## Steps (Shutdown Jellyfin before proceeding)
 
-1. Download the [slideshow.html](https://github.com/MakD/zombie-release/blob/main/spotlight-html/slideshow.html)
+1. Download the [slideshow.html](https://github.com/MViniDias/tema-jellyfin-zombie-release/blob/main/spotlight-html/slideshow.html)
 2. Enter your Jellyfin UserID and API key in lines 108 & 109 respectively and save it.
 3. Create a folder `avatars` in your jellyfin-web folder.
 4. Copy the slideshow.html file to the `avatars` folder.
